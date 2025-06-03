@@ -31,7 +31,7 @@
 
 ### 👋 Hakkımda Daha Fazla Bilgi
 
-Merhaba! Ben [Ravi], dijital dünyada kullanıcı odaklı ve estetik çözümler üretmeye kendini adamış bir yazılım geliştiriciyim. Özellikle [NodeJs] ve [Electron] konularında derin bir tutkuya sahibim. Kod yazmanın yanı sıra, kullanıcıların ihtiyaçlarını anlamak ve onlara en iyi deneyimi sunacak arayüzler tasarlamak benim için bir o kadar önemli.
+Merhaba! Ben Ravi, dijital dünyada kullanıcı odaklı ve estetik çözümler üretmeye kendini adamış bir yazılım geliştiriciyim. Özellikle NodeJs ve Electron konularında derin bir tutkuya sahibim. Kod yazmanın yanı sıra, kullanıcıların ihtiyaçlarını anlamak ve onlara en iyi deneyimi sunacak arayüzler tasarlamak benim için bir o kadar önemli.
 
 * 🌱 Şu anda **[Öğrenmekte Olduğunuz Yeni Teknoloji veya Konu, örn: Serverless Architectures]** üzerine yoğunlaşıyorum.
 * 🚀 **[Üzerinde Çalıştığınız Heyecan Verici Bir Proje veya Fikir]** projesiyle dünyayı daha iyi bir yer haline getirmeye çalışıyorum (ya da en azından daha kullanışlı!).
