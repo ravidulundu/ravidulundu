@@ -9,8 +9,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/#" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://linkedin.com/in/[LINKEDIN_PROFIL_LINKINIZ]" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/ravidulundu" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -33,12 +32,12 @@
 
 Merhaba! Ben Ravi, dijital dünyada kullanıcı odaklı ve estetik çözümler üretmeye kendini adamış bir yazılım geliştiriciyim. Özellikle NodeJs ve Electron konularında derin bir tutkuya sahibim. Kod yazmanın yanı sıra, kullanıcıların ihtiyaçlarını anlamak ve onlara en iyi deneyimi sunacak arayüzler tasarlamak benim için bir o kadar önemli.
 
-* 🌱 Şu anda **[Öğrenmekte Olduğunuz Yeni Teknoloji veya Konu, örn: Serverless Architectures]** üzerine yoğunlaşıyorum.
-* 🚀 **[Üzerinde Çalıştığınız Heyecan Verici Bir Proje veya Fikir]** projesiyle dünyayı daha iyi bir yer haline getirmeye çalışıyorum (ya da en azından daha kullanışlı!).
-* 💡 **[İşbirliği Yapmak İstediğiniz Proje Türleri veya Fikirler]** gibi projelerde işbirliği yapmaya her zaman açığım.
-* 💬 Bana **[Tutkulu Olduğunuz Teknolojiler, örn: React, Figma, Node.js]** veya **[Hobilerinizden Biri, örn: fotoğrafçılık, satranç]** hakkında soru sormaktan çekinmeyin!
+* 🌱 Şu anda **Full-stack geliştirmede TypeScript etkinliğini artırma** ve **yeni nesil CSS mimarileri** üzerine yoğunlaşıyorum.
+* 🚀 **Açık kaynaklı, Electron tabanlı bir geliştirici aracı** veya **kullanıcı gizliliğini ön planda tutan merkeziyetsiz bir web uygulaması** gibi fikirler üzerinde kafa yoruyorum.
+* 💡 Özellikle **Node.js, Electron ile geliştirilecek yenilikçi masaüstü uygulamaları**, **performans odaklı web servisleri** veya **kullanıcı arayüzü zengin interaktif web projeleri** gibi konularda işbirliği yapmaya her zaman açığım.
+* 💬 Bana **Node.js, Electron, React, Vue.js, Figma** gibi teknolojiler veya **minimalist tasarım prensipleri** hakkında soru sormaktan çekinmeyin!
 * 📫 Bana ulaşmanın en iyi yolu: **ravidulundu@gmail.com** veya LinkedIn üzerinden.
-* ⚡ Eğlenceli bir bilgi: **[Kendinizle İlgili İlginç veya Eğlenceli Bir Detay, örn: Aynı anda 3 farklı kahve demleme yöntemini kullanabilirim!]**
+* ⚡ Eğlenceli bir bilgi: **İyi bir espresso yapmanın, temiz kod yazmak kadar tatmin edici olduğuna inanıyorum!**
 
 ---
 
@@ -86,12 +85,11 @@ Aşağıda sıkça kullandığım ve sevdiğim teknolojilerin bir listesini bula
 </p>
 
 ---
-
 ### 🤝 Bağlantıda Kalalım & İşbirliği
 
 Yeni fikirleri tartışmak, projeler üzerinde işbirliği yapmak veya sadece bir kahve eşliğinde sohbet etmek için her zaman buradayım. Benimle iletişime geçmekten çekinmeyin!
 
 <p align="center">
-  <a href="[ravidulundu.me]" target="_blank" style="margin-right:10px;"><strong>Web Sitemi Ziyaret Edin</strong></a> |
+  <a href="https://ravidulundu.me" target="_blank" style="margin-right:10px;"><strong>Web Sitemi Ziyaret Edin</strong></a> |
   <a href="mailto:ravidulundu@gmail.com" style="margin-left:10px;"><strong>Bir E-posta Gönderin</strong></a>
 </p>
