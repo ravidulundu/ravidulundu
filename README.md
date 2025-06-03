@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://ravidulundu.me/IMG_0946.jpg]" alt="[Ravi Dulundu]" width="150" height="150" style="border-radius:50%; border: 3px solid #7955EC; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);"/>
+  <img src="https://ravidulundu.me/IMG_0946.jpg" alt="[Ravi Dulundu]" width="150" height="150" style="border-radius:50%; border: 3px solid #7955EC; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);"/>
 
   <h1>Selamlar, ben [Ravi Dulundu] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
