@@ -21,7 +21,7 @@
     <a href="mailto:ravidulundu@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-      a href="mailto:ravidulundu@gmail.com" target="_blank">
+      <a href="mailto:ravidulundu@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolyo-7955EC?style=for-the-badge&logo=Launchpad&logoColor=white" alt="Portfolyo"/>
     </a>
   </p>
