@@ -37,7 +37,7 @@ Merhaba! Ben [Ravi], dijital dünyada kullanıcı odaklı ve estetik çözümler
 * 🚀 **[Üzerinde Çalıştığınız Heyecan Verici Bir Proje veya Fikir]** projesiyle dünyayı daha iyi bir yer haline getirmeye çalışıyorum (ya da en azından daha kullanışlı!).
 * 💡 **[İşbirliği Yapmak İstediğiniz Proje Türleri veya Fikirler]** gibi projelerde işbirliği yapmaya her zaman açığım.
 * 💬 Bana **[Tutkulu Olduğunuz Teknolojiler, örn: React, Figma, Node.js]** veya **[Hobilerinizden Biri, örn: fotoğrafçılık, satranç]** hakkında soru sormaktan çekinmeyin!
-* 📫 Bana ulaşmanın en iyi yolu: **[ravidulundu@gmail.com]** veya LinkedIn üzerinden.
+* 📫 Bana ulaşmanın en iyi yolu: **ravidulundu@gmail.com** veya LinkedIn üzerinden.
 * ⚡ Eğlenceli bir bilgi: **[Kendinizle İlgili İlginç veya Eğlenceli Bir Detay, örn: Aynı anda 3 farklı kahve demleme yöntemini kullanabilirim!]**
 
 ---
