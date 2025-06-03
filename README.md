@@ -1,137 +1,97 @@
 <div align="center">
-  <a href="[YOUR_WEBSITE_LINK_HERE]"> <img src="[YOUR_PROFILE_PICTURE_URL_HERE]" alt="Efe Görkem Ümit" width="150" height="150" style="border-radius:50%;">
-  </a>
-  <h1>Efe Görkem Ümit</h1>
-  <p>
-    Software Engineer | Full Stack Developer | Tech Enthusiast <br />
-    <a href="mailto:efegorkemumit@gmail.com">efegorkemumit@gmail.com</a> | 
-    <a href="http://www.efegorkemumit.com" target="_blank">www.efegorkemumit.com</a> | 
-    <a href="[YOUR_PORTFOLIO_LINK_HERE]" target="_blank">My Portfolio</a>
-  </p>
+
+  <img src="[https://ravidulundu.me/IMG_0946.jpg]" alt="[Ravi Dulundu]" width="150" height="150" style="border-radius:50%; border: 3px solid #7955EC; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);"/>
+
+  <h1>Selamlar, ben [Ravi Dulundu] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
   <p>
-    <a href="https://www.linkedin.com/in/efegorkemumit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/efegorkemumit" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://twitter.com/efegorkemumit" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a href="https://www.instagram.com/efegorkemumit/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    </p>
-</div>
-
----
-
-### 👋 About Me:
-
-Software Engineer who loves building things for the web & mobile.
-Currently working on exciting projects and always eager to learn new technologies.
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/efegorkemumit" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" >
-  </a>
-</div>
-
----
-
-### 💻 Tech Stack:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <strong><i>Tutkulu Yazılım Geliştirici | UI/UX Tasarım Meraklısı | Hayat Boyu Öğrenen</i></strong>
   </p>
 
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efegorkemumit&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github" alt="Efe Görkem Ümit's GitHub Stats">
-</p>
-
-<div align="center">
-  <table >
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total%20Stars-3807-blue?style=flat-square&logo=githubsponsors" alt="Total Stars"> 
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total%20Forks-6-lightgrey?style=flat-square&logo=git" alt="Total Forks">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total%20Contributions-160-green?style=flat-square&logo=gnu%20make" alt="Total Contributions">
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efegorkemumit&layout=compact&langs_count=10&theme=radical&card_width=320" alt="Top Languages">
-</p>
-
----
-
-### ⭐ Popular Repositories:
-<p align="center">
-  <a href="https://github.com/efegorkemumit/[REPO_NAME_1]" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efegorkemumit&repo=[REPO_NAME_1]&theme=radical&show_owner=false" /></a>
-  <a href="https://github.com/efegorkemumit/[REPO_NAME_2]" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efegorkemumit&repo=[REPO_NAME_2]&theme=radical&show_owner=false" /></a>
-  <br/>
-  <a href="https://github.com/efegorkemumit/[REPO_NAME_3]" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efegorkemumit&repo=[REPO_NAME_3]&theme=radical&show_owner=false" /></a>
-  <a href="https://github.com/efegorkemumit/[REPO_NAME_4]" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=efegorkemumit&repo=[REPO_NAME_4]&theme=radical&show_owner=false" /></a>
-</p>
-<div align="right">
-  <a href="https://github.com/efegorkemumit?tab=repositories">Show more -></a>
-</div>
-
----
-
-### 📅 Contributions in the last year <div align="right"><a href="https://github.com/users/efegorkemumit/contributions">Details</a></div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efegorkemumit&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
+  <p>
+    <a href="https://linkedin.com/in/#" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/[ravidulundu]" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://twitter.com/[ravidulundu" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="mailto:[EPOSTA_ADRESINIZ]" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="[PORTFOLYO_VEYA_WEB_SITENIZIN_LINKI]" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolyo-7955EC?style=for-the-badge&logo=Launchpad&logoColor=white" alt="Portfolyo"/>
+    </a>
   </p>
-
----
-
-### 📊 Contribution activity:
-
-Last 30 days: - 🎉 Created X commits in **[REPOSITORY_NAME]**
-- ⭐ Starred Y repository **[STARRED_REPOSITORY_NAME]**
-- 🚀 Opened Z issue in **[REPOSITORY_NAME_FOR_ISSUE]**
-
-<details align="left">
-  <summary><b>✨ Latest GitHub Activity</b> (Click to expand)</summary>
-  <br />
-  <p><i>✨ Latest activity will be displayed here once the Action runs.</i></p>
-  <br />
-</details>
-
-<div align="right">
-  <a href="https://github.com/efegorkemumit">Show more activity -></a>
 </div>
 
 ---
 
+### 👋 Hakkımda Daha Fazla Bilgi
+
+Merhaba! Ben [Ravi], dijital dünyada kullanıcı odaklı ve estetik çözümler üretmeye kendini adamış bir yazılım geliştiriciyim. Özellikle [NodeJs] ve [Electron] konularında derin bir tutkuya sahibim. Kod yazmanın yanı sıra, kullanıcıların ihtiyaçlarını anlamak ve onlara en iyi deneyimi sunacak arayüzler tasarlamak benim için bir o kadar önemli.
+
+* 🌱 Şu anda **[Öğrenmekte Olduğunuz Yeni Teknoloji veya Konu, örn: Serverless Architectures]** üzerine yoğunlaşıyorum.
+* 🚀 **[Üzerinde Çalıştığınız Heyecan Verici Bir Proje veya Fikir]** projesiyle dünyayı daha iyi bir yer haline getirmeye çalışıyorum (ya da en azından daha kullanışlı!).
+* 💡 **[İşbirliği Yapmak İstediğiniz Proje Türleri veya Fikirler]** gibi projelerde işbirliği yapmaya her zaman açığım.
+* 💬 Bana **[Tutkulu Olduğunuz Teknolojiler, örn: React, Figma, Node.js]** veya **[Hobilerinizden Biri, örn: fotoğrafçılık, satranç]** hakkında soru sormaktan çekinmeyin!
+* 📫 Bana ulaşmanın en iyi yolu: **[ravidulundu@gmail.com]** veya LinkedIn üzerinden.
+* ⚡ Eğlenceli bir bilgi: **[Kendinizle İlgili İlginç veya Eğlenceli Bir Detay, örn: Aynı anda 3 farklı kahve demleme yöntemini kullanabilirim!]**
+
+---
+
+### 🛠️ Kullandığım Teknolojiler & Araçlar
+
+Aşağıda sıkça kullandığım ve sevdiğim teknolojilerin bir listesini bulabilirsiniz. Her zaman yeni şeyler öğrenmeye ve araç kutumu genişletmeye hevesliyim!
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>&nbsp;
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>&nbsp;
+  <br/>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
+  <br/>
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>&nbsp;
+  <br/>
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>&nbsp;
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/>&nbsp;
+  <br/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>&nbsp;
+</p>
+
+---
+
+### 🤝 Bağlantıda Kalalım & İşbirliği
+
+Yeni fikirleri tartışmak, projeler üzerinde işbirliği yapmak veya sadece bir kahve eşliğinde sohbet etmek için her zaman buradayım. Benimle iletişime geçmekten çekinmeyin!
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=efegorkemumit&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views">
+  <a href="[ravidulundu.me]" target="_blank" style="margin-right:10px;"><strong>Web Sitemi Ziyaret Edin</strong></a> |
+  <a href="mailto:ravidulundu@gmail.com" style="margin-left:10px;"><strong>Bir E-posta Gönderin</strong></a>
 </p>
