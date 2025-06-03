@@ -2,14 +2,14 @@
 
   <img src="https://ravidulundu.me/IMG_0946.jpg" alt="Ravi Dulundu" width="150" height="150" style="border-radius:50%; border: 3px solid #7955EC; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);"/>
 
-  <h1>Selamlar, ben Ravi Dulundu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Ravi Dulundu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
   <p>
-    <strong><i>Tutkulu Yazılım Geliştirici | UI/UX Tasarım Meraklısı | Hayat Boyu Öğrenen</i></strong>
+    <strong><i>Passionate Software Developer | UI/UX Design Enthusiast | Lifelong Learner</i></strong>
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/[LINKEDIN_PROFIL_LINKINIZ]" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://linkedin.com/in/[YOUR_LINKEDIN_PROFILE_LINK]" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/ravidulundu" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -21,29 +21,29 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
       <a href="https://ravidulundu.me" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolyo-7955EC?style=for-the-badge&logo=Launchpad&logoColor=white" alt="Portfolyo"/>
+      <img src="https://img.shields.io/badge/Portfolio-7955EC?style=for-the-badge&logo=Launchpad&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 </div>
 
 ---
 
-### 👋 Hakkımda Daha Fazla Bilgi
+### 👋 More About Me
 
-Merhaba! Ben Ravi, dijital dünyada kullanıcı odaklı ve estetik çözümler üretmeye kendini adamış bir yazılım geliştiriciyim. Özellikle NodeJs ve Electron konularında derin bir tutkuya sahibim. Kod yazmanın yanı sıra, kullanıcıların ihtiyaçlarını anlamak ve onlara en iyi deneyimi sunacak arayüzler tasarlamak benim için bir o kadar önemli.
+Hello! I'm Ravi, a software developer dedicated to creating user-centric and aesthetic solutions in the digital world. I have a deep passion, especially for Node.js and Electron. Besides coding, understanding user needs and designing interfaces that offer them the best experience is equally important to me.
 
-* 🌱 Şu anda **Full-stack geliştirmede TypeScript etkinliğini artırma** ve **yeni nesil CSS mimarileri** üzerine yoğunlaşıyorum.
-* 🚀 **Açık kaynaklı, Electron tabanlı bir geliştirici aracı** veya **kullanıcı gizliliğini ön planda tutan merkeziyetsiz bir web uygulaması** gibi fikirler üzerinde kafa yoruyorum.
-* 💡 Özellikle **Node.js, Electron ile geliştirilecek yenilikçi masaüstü uygulamaları**, **performans odaklı web servisleri** veya **kullanıcı arayüzü zengin interaktif web projeleri** gibi konularda işbirliği yapmaya her zaman açığım.
-* 💬 Bana **Node.js, Electron, React, Vue.js, Figma** gibi teknolojiler veya **minimalist tasarım prensipleri** hakkında soru sormaktan çekinmeyin!
-* 📫 Bana ulaşmanın en iyi yolu: **ravidulundu@gmail.com** veya LinkedIn üzerinden.
-* ⚡ Eğlenceli bir bilgi: **İyi bir espresso yapmanın, temiz kod yazmak kadar tatmin edici olduğuna inanıyorum!**
+* 🌱 I am currently focusing on **enhancing TypeScript proficiency in full-stack development** and exploring **next-generation CSS architectures**.
+* 🚀 I'm brainstorming ideas like **an open-source Electron-based developer tool** or **a decentralized web application prioritizing user privacy**.
+* 💡 I'm always open to collaborating on projects, especially on **innovative desktop applications developed with Node.js or Electron**, **performance-driven web services**, or **interactive web projects with rich user interfaces**.
+* 💬 Feel free to ask me about technologies like **Node.js, Electron, React, Vue.js, Figma**, or about **minimalist design principles**!
+* 📫 The best way to reach me is via **ravidulundu@gmail.com** or LinkedIn.
+* ⚡ Fun fact: **I believe that making a good espresso is as satisfying as writing clean code!**
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
+### 🛠️ Technologies & Tools I Use
 
-Aşağıda sıkça kullandığım ve sevdiğim teknolojilerin bir listesini bulabilirsiniz. Her zaman yeni şeyler öğrenmeye ve araç kutumu genişletmeye hevesliyim!
+Below is a list of technologies I frequently use and love. I'm always eager to learn new things and expand my toolkit!
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
@@ -85,11 +85,11 @@ Aşağıda sıkça kullandığım ve sevdiğim teknolojilerin bir listesini bula
 </p>
 
 ---
-### 🤝 Bağlantıda Kalalım & İşbirliği
+### 🤝 Let's Connect & Collaborate
 
-Yeni fikirleri tartışmak, projeler üzerinde işbirliği yapmak veya sadece bir kahve eşliğinde sohbet etmek için her zaman buradayım. Benimle iletişime geçmekten çekinmeyin!
+I'm always here to discuss new ideas, collaborate on projects, or just chat over a coffee. Don't hesitate to contact me!
 
 <p align="center">
-  <a href="https://ravidulundu.me" target="_blank" style="margin-right:10px;"><strong>Web Sitemi Ziyaret Edin</strong></a> |
-  <a href="mailto:ravidulundu@gmail.com" style="margin-left:10px;"><strong>Bir E-posta Gönderin</strong></a>
+  <a href="https://ravidulundu.me" target="_blank" style="margin-right:10px;"><strong>Visit My Website</strong></a> |
+  <a href="mailto:ravidulundu@gmail.com" style="margin-left:10px;"><strong>Send Me an Email</strong></a>
 </p>
