@@ -49,7 +49,7 @@ const ravi = {
 ### 🚀 What I'm Up To
 
 - 🌱 Currently focusing on **enhancing TypeScript proficiency in full-stack development** and exploring **next-generation CSS architectures**
-- 🔭 Working on **noob.gg** - a gaming platform using Next.js 15, React 19, and modern web technologies
+- 🔭 Using Next.js 15, React 19, and modern web technologies
 - 💡 Brainstorming ideas like **an open-source Electron-based developer tool** or **a decentralized web application prioritizing user privacy**
 - 👯 Always open to collaborating on **innovative desktop applications**, **performance-driven web services**, or **interactive web projects**
 - 💬 Ask me about **Node.js, Electron, React, Next.js, TypeScript, Figma**, or **minimalist design principles**
