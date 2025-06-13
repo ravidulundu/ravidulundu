@@ -36,7 +36,15 @@
 Hello! I'm Ravi, a passionate full-stack developer from Brasil 🇧🇷, dedicated to creating user-centric and aesthetically pleasing digital solutions. I specialize in modern web technologies with a strong focus on **TypeScript** and **React ecosystem**.
 
 ```typescript
-const ravi = {
+interface Developer {
+  pronouns: string;
+  location: string;
+  currentFocus: string;
+  passion: string[];
+  funFact: string;
+}
+
+const ravi: Developer = {
   pronouns: "he/him",
   location: "Brasil 🇧🇷",
   currentFocus: "Full-stack development with TypeScript",
@@ -94,12 +102,12 @@ const ravi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravidulundu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravidulundu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=009739&text_color=FFFFFF&icon_color=FEDD00" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=009739&text_color=FFFFFF" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravidulundu&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravidulundu&theme=dark&hide_border=true&background=0D1117&ring=009739&fire=FEDD00&currStreakLabel=009739&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -107,7 +115,7 @@ const ravi = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravidulundu&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravidulundu&bg_color=0D1117&color=009739&line=FEDD00&point=009739&area=true&hide_border=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -115,7 +123,7 @@ const ravi = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravidulundu&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ravidulundu&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies"/>
 </div>
 
 ---
