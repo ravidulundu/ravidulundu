@@ -9,7 +9,7 @@
 ## About Me
 
 - Pronouns: he/him  
-- Location: Brasil 🇧🇷  
+- Location: Brazil 🇧🇷  
 - Fun fact: Good espresso is as satisfying as clean code! ☕
 
 I build modern web applications with **TypeScript**, **React 19**, **Next.js 15** and **Bun**. Passionate about open source, minimal UIs and developer tooling.
