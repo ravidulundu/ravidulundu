@@ -49,7 +49,7 @@ const ravi: Developer = {
   location: "Brasil 🇧🇷",
   currentFocus: "Full-stack development with TypeScript",
   passion: ["Clean Code", "UI/UX Design", "Modern Web Technologies", "Linux & Open Source"],
-  funFact: "I believe making good espresso is as satisfying as writing clean code!:coffee:"
+  funFact: "I believe making good espresso is as satisfying as writing clean code! :coffee: "
 };
 ```
 
