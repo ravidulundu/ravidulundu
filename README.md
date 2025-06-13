@@ -1,9 +1,5 @@
 # Ravi Dulundu
 
-<div align="center">
-  <img src="https://github.com/ravidulundu.png" alt="Ravi Dulundu" width="120" />
-</div>
-
 **Full-Stack Developer · UI/UX Enthusiast · Clean Code Advocate**
 
 [LinkedIn](https://linkedin.com/in/ravidulundu) • [GitHub](https://github.com/ravidulundu) • [Twitter](https://twitter.com/ravidulundu) • [Website](https://ravidulundu.me)
