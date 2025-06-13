@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Ravi, a passionate full-stack developer from Brasil 🇧🇷, dedicated to creating user-centric and aesthetically pleasing digital solutions. I specialize in modern web technologies with a strong focus on **TypeScript** and **React ecosystem**.
+Hello! I'm Ravi, a passionate full-stack developer from Brasil 🇧🇷, dedicated to creating user-centric and aesthetically pleasing digital solutions. I specialize in modern web technologies with a strong focus on **TypeScript** and **React ecosystem**. As a **Linux enthusiast**, I love the power and flexibility of open-source development.
 
 ```typescript
 interface Developer {
@@ -48,8 +48,8 @@ const ravi: Developer = {
   pronouns: "he/him",
   location: "Brasil 🇧🇷",
   currentFocus: "Full-stack development with TypeScript",
-  passion: ["Clean Code", "UI/UX Design", "Modern Web Technologies"],
-  funFact: "I believe making good espresso is as satisfying as writing clean code! ☕"
+  passion: ["Clean Code", "UI/UX Design", "Modern Web Technologies", "Linux & Open Source"],
+  funFact: "I believe making good espresso is as satisfying as writing clean code! :coffee:"
 };
 ```
 
@@ -57,9 +57,9 @@ const ravi: Developer = {
 
 - 🌱 Building **noob.gg** with cutting-edge technologies
 - 🔭 Exploring **React 19** features and **Next.js 15** capabilities
-- 💡 Developing modern web applications with **Hono.js** and **Bun**
-- 👯 Open to collaborating on **innovative web projects** and **developer tools**
-- 💬 Ask me about **TypeScript, React, Next.js, Node.js**, or **UI/UX design**
+- 💡 Developing modern web applications with **Hono.js** and **Bun** on **Linux**
+- 👯 Open to collaborating on **innovative web projects**, **developer tools**, and **open-source projects**
+- 💬 Ask me about **TypeScript, React, Next.js, Node.js, Linux**, or **UI/UX design**
 - 📫 Reach me via **ravidulundu@gmail.com** or LinkedIn
 
 ---
@@ -71,6 +71,7 @@ const ravi: Developer = {
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
