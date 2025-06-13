@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · UI/UX Enthusiast · Clean Code Advocate**
 
-[LinkedIn](https://linkedin.com/in/ravidulundu) • [GitHub](https://github.com/ravidulundu) • [Twitter](https://twitter.com/ravidulundu) • [Website](https://ravidulundu.me)
+[LinkedIn](https://linkedin.com/in/ravidulundu)  • [Twitter](https://twitter.com/ravidulundu) • [Website](https://ravidulundu.me)
 
 ---
 
