@@ -35,4 +35,5 @@ TypeScript · React 19 · Next.js 15 · Tailwind CSS · Hono.js · Bun · Postgr
 </details>
 
 > “Code is like humor. When you have to explain it, it's bad.” — Cory House
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&hide_progress=true)
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&hide_progress=true)
+
