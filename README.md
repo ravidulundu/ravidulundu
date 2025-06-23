@@ -35,7 +35,7 @@ I build modern web applications with **TypeScript**, **React 19**, **Next.js 15*
 
 ## Tech Stack
 
-TypeScript · React 19 · Next.js 15 · Tailwind CSS · Hono.js · Bun · PostgreSQL
+TypeScript · React  · Next.js  · Tailwind CSS · Hono.js · Bun · PostgreSQL
 
 ---
 
