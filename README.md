@@ -1,4 +1,5 @@
 # Ravi Dulundu
+<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
 
 **Full-Stack Developer · UI/UX Enthusiast · Clean Code Advocate**
 
