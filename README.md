@@ -10,8 +10,8 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/ravidulundu" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
+  <img alt="X" src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
+</a>
   <a href="https://ravidulundu.me" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat&logo=firefox&logoColor=white" />
   </a>
