@@ -27,18 +27,10 @@ I build modern web applications with **TypeScript**, **React 19**, **Next.js 15*
 
 TypeScript · React 19 · Next.js 15 · Tailwind CSS · Hono.js · Bun · PostgreSQL
 
-<details>
-  <summary>GitHub Stats</summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ravidulundu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </p>
-</details>
 
 > “Code is like humor. When you have to explain it, it's bad.” — Cory House
 
 
-
+<p align="center">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&hide_progress=true)
 
