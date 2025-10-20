@@ -91,7 +91,7 @@ If this work resonates, starring the repositories helps others discover them.
 [x-badge]: https://img.shields.io/badge/X-000000?style=flat&logo=x
 [x-url]: https://twitter.com/ravidulundu
 [views-badge]: https://komarev.com/ghpvc/?username=ravidulundu
-[docker-badge]: https://img.shields.io/badge/Docker-2496ED?logo=docker
+[docker-badge]: https://img.shields.io/badge/Docker-1d3b53?logo=docker&logoColor=fff
 [docker-url]: https://www.docker.com
 [devcontainers-badge]: https://img.shields.io/badge/Dev%20Containers-0A7
 [devcontainers-url]: https://code.visualstudio.com/docs/remote/containers
