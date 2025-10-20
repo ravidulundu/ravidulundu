@@ -86,7 +86,7 @@ If this work resonates, starring the repositories helps others discover them.
 
 [website-badge]: https://img.shields.io/badge/Website-000?logo=firefox
 [website-url]: https://ravidulundu.me
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A6?logo=linkedin
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin
 [linkedin-url]: https://linkedin.com/in/ravidulundu
 [x-badge]: https://img.shields.io/badge/X-000000?style=flat&logo=x
 [x-url]: https://twitter.com/ravidulundu
