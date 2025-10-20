@@ -5,7 +5,6 @@
 [![Website][website-badge]][website-url]
 [![LinkedIn][linkedin-badge]][linkedin-url]
 [![X][x-badge]][x-url]
-![Profile views][views-badge]
 [![Docker][docker-badge]][docker-url]
 [![Dev Containers][devcontainers-badge]][devcontainers-url]
 [![WordPress][wordpress-badge]][wordpress-url]
@@ -83,6 +82,8 @@ tooling, and remote product delivery.
 - Twitter / X: [@ravidulundu](https://twitter.com/ravidulundu)
 
 If this work resonates, starring the repositories helps others discover them.
+
+![Profile views][views-badge]
 
 [website-badge]:
   https://img.shields.io/badge/Website-000000?logo=firefox&logoColor=white
