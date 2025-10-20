@@ -8,10 +8,16 @@
 
 ---
 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravidulundu)
 [![Twitter](https://img.shields.io/badge/--000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravidulundu)
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ravidulundu.me)
-[![Profile Views](https://komarev.com/ghpvc/?username=condorcoders&style=for-the-badge&color=blue)](https://github.com/ravidulundu)
+[![Profile Views](https://komarev.com/ghpvc/?username=ravidulundu&style=for-the-badge&color=blue)](https://github.com/ravidulundu)
 
 ---
 
