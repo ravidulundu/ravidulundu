@@ -85,22 +85,22 @@ tooling, and remote product delivery.
 If this work resonates, starring the repositories helps others discover them.
 
 [website-badge]:
-  https://img.shields.io/badge/Website-000?logo=firefox
+  https://img.shields.io/badge/Website-000000?logo=firefox&logoColor=white
 [website-url]: https://ravidulundu.me
 [linkedin-badge]:
   https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/ravidulundu
 [x-badge]:
-  https://img.shields.io/badge/X-000000?style=flat&logo=x
+  https://img.shields.io/badge/X-000000?logo=x&logoColor=white
 [x-url]: https://twitter.com/ravidulundu
 [views-badge]:
-  https://komarev.com/ghpvc/?username=ravidulundu
+  https://komarev.com/ghpvc/?username=ravidulundu&style=flat
 [docker-badge]:
-  https://img.shields.io/badge/Docker-%20-1d3b53?logo=docker&logoColor=fff
+  https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white
 [docker-url]: https://www.docker.com
 [devcontainers-badge]:
-  https://img.shields.io/badge/Dev%20Containers-0A7
+  https://img.shields.io/badge/Dev%20Containers-007ACC?logo=visualstudiocode
 [devcontainers-url]: https://code.visualstudio.com/docs/remote/containers
 [wordpress-badge]:
-  https://img.shields.io/badge/WordPress-21759B?logo=wordpress
+  https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white
 [wordpress-url]: https://wordpress.org
