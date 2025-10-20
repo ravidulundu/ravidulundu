@@ -2,20 +2,22 @@
 
 ![Header image for Ravi Dulundu](./github-header-image.png)
 
-Full-Stack Engineer · UI/UX Specialist · Clean Code Advocate
+[![Website][website-badge]][website-url]
+[![LinkedIn][linkedin-badge]][linkedin-url]
+[![X][x-badge]][x-url]
+![Profile views][views-badge]
 
-[Website](https://ravidulundu.me) •
-[LinkedIn](https://linkedin.com/in/ravidulundu) •
-[X](https://twitter.com/ravidulundu)
+DevOps-focused engineer building VS Code dev containers and optimized
+WordPress experiences.
 
 Based in Brazil • Pronouns: he/him
 
 ## Snapshot
 
-- Deliver TypeScript-first products with React 19, Next.js 15, Bun, and edge
-  runtimes.
+- Deliver DevOps-ready TypeScript products with React 19, Next.js 15, Bun, and
+  edge runtimes.
 - Blend UX research, accessibility, and performance to launch polished
-  frontends.
+  frontends and WordPress experiences.
 - Build tooling such as AI-ready dev containers, CI pipelines, and dashboards
   that keep teams fast and consistent.
 
@@ -40,8 +42,9 @@ Based in Brazil • Pronouns: he/him
 ## Selected Projects
 
 - **AI Dev Container:** opinionated Docker workspace with VS Code Remote
-  integration, four AI CLIs, telemetry dashboard, and 50+ automated checks that
-  ensure reproducible developer experience.  
+  integration, four AI CLIs, telemetry dashboards, and 50+ automated checks.
+  Standardises environments with Docker Compose, Ubuntu 24.04, and baked-in
+  security hardening.  
   [Repository](https://github.com/ravidulundu/claude-dev-container)
 - **Glassmorphism Monitoring UI:** responsive dashboard for container metrics,
   real-time charts, and theme-aware visuals.
@@ -75,3 +78,13 @@ tooling, and remote product delivery.
 - Twitter / X: [@ravidulundu](https://twitter.com/ravidulundu)
 
 If this work resonates, starring the repositories helps others discover them.
+
+[website-badge]: https://img.shields.io/badge/Website-000?logo=firefox
+[website-url]: https://ravidulundu.me
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A6?logo=linkedin
+[linkedin-url]: https://linkedin.com/in/ravidulundu
+[x-badge]: https://img.shields.io/badge/X-000000?style=flat&logo=x
+[x-url]: https://twitter.com/ravidulundu
+[views-badge]: https://komarev.com/ghpvc/?username=ravidulundu
+- **WordPress Delivery:** crafted themes, performance tuning, SEO and Core
+  Web Vitals monitoring for content-heavy experiences.
