@@ -6,6 +6,9 @@
 [![LinkedIn][linkedin-badge]][linkedin-url]
 [![X][x-badge]][x-url]
 ![Profile views][views-badge]
+[![Docker][docker-badge]][docker-url]
+[![Dev Containers][devcontainers-badge]][devcontainers-url]
+[![WordPress][wordpress-badge]][wordpress-url]
 
 DevOps-focused engineer building VS Code dev containers and optimized
 WordPress experiences.
@@ -50,6 +53,8 @@ Based in Brazil • Pronouns: he/him
   real-time charts, and theme-aware visuals.
 - **Developer Tooling Playbooks:** internal guides outlining commit conventions,
   review checklists, and release automation.
+- **WordPress Delivery:** bespoke themes, performance tuning, SEO, and Core Web
+  Vitals monitoring for content-heavy marketing sites.
 
 ## Tooling and Stack Highlights
 
@@ -86,5 +91,9 @@ If this work resonates, starring the repositories helps others discover them.
 [x-badge]: https://img.shields.io/badge/X-000000?style=flat&logo=x
 [x-url]: https://twitter.com/ravidulundu
 [views-badge]: https://komarev.com/ghpvc/?username=ravidulundu
-- **WordPress Delivery:** crafted themes, performance tuning, SEO and Core
-  Web Vitals monitoring for content-heavy experiences.
+[docker-badge]: https://img.shields.io/badge/Docker-2496ED?logo=docker
+[docker-url]: https://www.docker.com
+[devcontainers-badge]: https://img.shields.io/badge/Dev%20Containers-0A7
+[devcontainers-url]: https://code.visualstudio.com/docs/remote/containers
+[wordpress-badge]: https://img.shields.io/badge/WordPress-21759B?logo=wordpress
+[wordpress-url]: https://wordpress.org
