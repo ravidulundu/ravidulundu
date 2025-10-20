@@ -84,16 +84,23 @@ tooling, and remote product delivery.
 
 If this work resonates, starring the repositories helps others discover them.
 
-[website-badge]: https://img.shields.io/badge/Website-000?logo=firefox
+[website-badge]:
+  https://img.shields.io/badge/Website-000?logo=firefox
 [website-url]: https://ravidulundu.me
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin
+[linkedin-badge]:
+  https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/ravidulundu
-[x-badge]: https://img.shields.io/badge/X-000000?style=flat&logo=x
+[x-badge]:
+  https://img.shields.io/badge/X-000000?style=flat&logo=x
 [x-url]: https://twitter.com/ravidulundu
-[views-badge]: https://komarev.com/ghpvc/?username=ravidulundu
-[docker-badge]: https://img.shields.io/badge/Docker-1d3b53?logo=docker&logoColor=fff
+[views-badge]:
+  https://komarev.com/ghpvc/?username=ravidulundu
+[docker-badge]:
+  https://img.shields.io/badge/Docker-%20-1d3b53?logo=docker&logoColor=fff
 [docker-url]: https://www.docker.com
-[devcontainers-badge]: https://img.shields.io/badge/Dev%20Containers-0A7
+[devcontainers-badge]:
+  https://img.shields.io/badge/Dev%20Containers-0A7
 [devcontainers-url]: https://code.visualstudio.com/docs/remote/containers
-[wordpress-badge]: https://img.shields.io/badge/WordPress-21759B?logo=wordpress
+[wordpress-badge]:
+  https://img.shields.io/badge/WordPress-21759B?logo=wordpress
 [wordpress-url]: https://wordpress.org
