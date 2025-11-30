@@ -15,11 +15,7 @@
   <br />
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ravidulundu&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    <img src="https://streak-stats.demolab.com?user=ravidulundu&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -38,27 +34,29 @@ I specialize in blending UX research, accessibility, and performance to launch p
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **noob.gg** | Matchmaking platform for discovering squads. | `React 19` `Next.js 15` |
-| **React 19 Labs** | Prototypes for server components & edge strategies. | `React` `Edge Runtime` |
-| **Hono + Bun Tools** | Scaffolds/scripts for lightweight APIs. | `Hono.js` `Bun` `PostgreSQL` |
+| **dulundu-tools** | Developer utilities & SaaS platform. | `TypeScript` `Next.js` |
+| **1453-WSL-Architect** | CLI tool for architecting WSL environments. | `Shell` `Bash` |
+| **devops-ubuntu** | Automated setup scripts for Ubuntu servers. | `Shell` `Automation` |
 
 ## 🛠️ Selected Projects
 
-### [AI Dev Container](https://github.com/ravidulundu/claude-dev-container)
-> *Opinionated Docker workspace with VS Code Remote integration.*
-- **Features:** 4 AI CLIs, telemetry dashboards, 50+ automated checks.
-- **Tech:** Docker Compose, Ubuntu 24.04, Security Hardening.
+### [DevOps Ubuntu Setup](https://github.com/ravidulundu/devops-ubuntu)
+> *Automation scripts for server provisioning.*
+- **Features:** Automated package installation, security hardening, dotfiles setup.
+- **Tech:** Shell Scripting, Bash, Ubuntu 24.04.
 
-### [Glassmorphism Monitoring UI](https://github.com/ravidulundu/glassmorphism-dashboard)
-> *Responsive dashboard for container metrics.*
-- **Features:** Real-time charts, theme-aware visuals, modern UI.
+### [Dulundu Tools](https://dulundu.tools)
+> *A comprehensive suite of tools for developers.*
+- **Features:** Chrome extension integration, productivity utilities.
+- **Tech:** TypeScript, React, Cloudflare Workers.
 
-### [Developer Tooling Playbooks](https://github.com/ravidulundu/dev-playbooks)
-> *Internal guides for commit conventions and release automation.*
+### [AI Dev Container Playbooks](https://github.com/ravidulundu)
+> *Opinionated Docker workspaces with VS Code Remote integration.*
+- **Features:** AI CLI pre-installs, telemetry dashboards, automated checks.
 
 ### WordPress Delivery
 > *Bespoke themes & performance tuning for content-heavy sites.*
-- **Focus:** Core Web Vitals, SEO, Custom Themes.
+- **Focus:** Core Web Vitals, SEO, Custom Themes (PHP 8.3).
 
 ## 💻 Tech Stack & Tools
 
