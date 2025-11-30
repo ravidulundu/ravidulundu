@@ -14,6 +14,12 @@
   <br />
   <br />
 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ravidulundu&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ravidulundu" />
+  </a>
+  
+  <br />
+
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=ravidulundu&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
   </a>
