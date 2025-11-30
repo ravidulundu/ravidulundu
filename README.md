@@ -1,107 +1,86 @@
-# Ravi Dulundu
+<div align="center">
+  <img src="./github-header-image.png" alt="Header image for Ravi Dulundu" width="100%" />
 
-![Header image for Ravi Dulundu](./github-header-image.png)
+  # Ravi Dulundu
 
-[![Website][website-badge]][website-url]
-[![LinkedIn][linkedin-badge]][linkedin-url]
-[![X][x-badge]][x-url]
-[![Docker][docker-badge]][docker-url]
-[![Dev Containers][devcontainers-badge]][devcontainers-url]
-[![WordPress][wordpress-badge]][wordpress-url]
+  **DevOps-focused Engineer | VS Code Dev Containers | Optimized WordPress Experiences**
 
-DevOps-focused engineer building VS Code dev containers and optimized
-WordPress experiences.
+  Based in Brazil 🇧🇷 • He/Him
 
-Based in Brazil • Pronouns: he/him
+  [![Website](https://img.shields.io/badge/Website-ravidulundu.me-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ravidulundu.me)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi_Dulundu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravidulundu)
+  [![X](https://img.shields.io/badge/X-@ravidulundu-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravidulundu)
 
-## Snapshot
+  <br />
 
-- Deliver DevOps-ready TypeScript products with React 19, Next.js 15, Bun, and
-  edge runtimes.
-- Blend UX research, accessibility, and performance to launch polished
-  frontends and WordPress experiences.
-- Build tooling such as AI-ready dev containers, CI pipelines, and dashboards
-  that keep teams fast and consistent.
+  <a href="https://github.com/ravidulundu">
+    <img src="https://github-readme-stats.vercel.app/api?username=ravidulundu&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Ravi's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  </a>
+</div>
 
-## Core Expertise
+---
 
-- **Product Engineering:** React Server Components, Next.js App Router, design
-  systems, and data visualisation.
-- **Platform & Infrastructure:** Node.js 20/22, Bun, Hono, PostgreSQL,
-  WebSockets, Docker Compose, and remote containers.
-- **Developer Experience:** Make-based automation, GitHub Actions, and
-  AI-assisted workflows with Claude Code, Copilot, Gemini, and Codex.
+## 🚀 About Me
 
-## Currently Building
+I specialize in blending UX research, accessibility, and performance to launch polished frontends. My focus is on building tooling—such as AI-ready dev containers and CI pipelines—that keeps teams fast and consistent.
 
-- **noob.gg:** matchmaking platform that helps players discover squads. Iterated
-  with React 19 and Next.js 15 for real-time discovery.
-- **React 19 Exploration:** prototypes for server components and edge-first
-  rendering strategies that feed production playbooks.
-- **Hono.js + Bun Tools:** scaffolds and deployment scripts for lightweight APIs
-  covering Bun, PostgreSQL, and Docker.
+- ⚛️ **Product Engineering:** React Server Components, Next.js App Router, Design Systems.
+- 🛠️ **Platform & Infra:** Node.js 20/22, Bun, Hono, PostgreSQL, Docker Compose.
+- 🤖 **Dev Experience:** GitHub Actions, AI-assisted workflows (Claude, Copilot, Gemini).
 
-## Selected Projects
+## 🔭 Currently Building
 
-- **AI Dev Container:** opinionated Docker workspace with VS Code Remote
-  integration, four AI CLIs, telemetry dashboards, and 50+ automated checks.
-  Standardises environments with Docker Compose, Ubuntu 24.04, and baked-in
-  security hardening.  
-  [Repository](https://github.com/ravidulundu/claude-dev-container)
-- **Glassmorphism Monitoring UI:** responsive dashboard for container metrics,
-  real-time charts, and theme-aware visuals.
-- **Developer Tooling Playbooks:** internal guides outlining commit conventions,
-  review checklists, and release automation.
-- **WordPress Delivery:** bespoke themes, performance tuning, SEO, and Core Web
-  Vitals monitoring for content-heavy marketing sites.
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **noob.gg** | Matchmaking platform for discovering squads. | `React 19` `Next.js 15` |
+| **React 19 Labs** | Prototypes for server components & edge strategies. | `React` `Edge Runtime` |
+| **Hono + Bun Tools** | Scaffolds/scripts for lightweight APIs. | `Hono.js` `Bun` `PostgreSQL` |
 
-## Tooling and Stack Highlights
+## 🛠️ Selected Projects
 
-- **Languages and Frameworks:** TypeScript, JavaScript, React 19, Next.js 15,
-  Hono.
-- **Runtime and Data:** Node.js, Bun, PostgreSQL, Edge Runtime, and WebSockets.
-- **DevOps:** Docker, Docker Compose, Ubuntu 24.04, GitHub Actions, and Make.
-- **Productivity:** VS Code Remote Containers, fzf, ripgrep, lazygit, Starship,
-  and Markdown-first documentation.
+### [AI Dev Container](https://github.com/ravidulundu/claude-dev-container)
+> *Opinionated Docker workspace with VS Code Remote integration.*
+- **Features:** 4 AI CLIs, telemetry dashboards, 50+ automated checks.
+- **Tech:** Docker Compose, Ubuntu 24.04, Security Hardening.
 
-## Collaboration Principles
+### [Glassmorphism Monitoring UI](https://github.com/ravidulundu/glassmorphism-dashboard)
+> *Responsive dashboard for container metrics.*
+- **Features:** Real-time charts, theme-aware visuals, modern UI.
 
-- Lead with structured discovery, then validate solutions with prototypes and
-  user feedback.
-- Automate linting, testing, and documentation previews before review requests.
-- Communicate in short iteration loops with scoped pull requests and actionable
-  notes.
+### [Developer Tooling Playbooks](https://github.com/ravidulundu/dev-playbooks)
+> *Internal guides for commit conventions and release automation.*
 
-## Connect
+### WordPress Delivery
+> *Bespoke themes & performance tuning for content-heavy sites.*
+- **Focus:** Core Web Vitals, SEO, Custom Themes.
 
-I am open to conversations about frontend architectures, developer experience
-tooling, and remote product delivery.
+## 💻 Tech Stack & Tools
 
-- Email: reach out via [LinkedIn](https://linkedin.com/in/ravidulundu)
-- Portfolio: [ravidulundu.me](https://ravidulundu.me)
-- Twitter / X: [@ravidulundu](https://twitter.com/ravidulundu)
+<div align="center">
 
-If this work resonates, starring the repositories helps others discover them.
+| Core | Runtime & Data | DevOps | Productivity |
+| :---: | :---: | :---: | :---: |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
 
-![Profile views][views-badge]
+</div>
 
-[website-badge]:
-  https://img.shields.io/badge/Website-000000?logo=firefox&logoColor=white
-[website-url]: https://ravidulundu.me
-[linkedin-badge]:
-  https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/ravidulundu
-[x-badge]:
-  https://img.shields.io/badge/X-000000?logo=x&logoColor=white
-[x-url]: https://twitter.com/ravidulundu
-[views-badge]:
-  https://komarev.com/ghpvc/?username=ravidulundu&style=flat
-[docker-badge]:
-  https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white
-[docker-url]: https://www.docker.com
-[devcontainers-badge]:
-  https://img.shields.io/badge/Dev%20Containers-007ACC?logo=visualstudiocode
-[devcontainers-url]: https://code.visualstudio.com/docs/remote/containers
-[wordpress-badge]:
-  https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white
-[wordpress-url]: https://wordpress.org
+## 🤝 Collaboration Principles
+
+1. **Discovery First:** Lead with structured discovery, validate with prototypes.
+2. **Automate Everything:** Linting, testing, and documentation previews happen before code review.
+3. **Iterate Fast:** Short loops, scoped pull requests, and actionable notes.
+
+---
+
+<div align="center">
+  <p>I am open to conversations about frontend architectures & DX tooling.</p>
+  
+  [Email via LinkedIn](https://linkedin.com/in/ravidulundu) • [Portfolio](https://ravidulundu.me)
+  
+  <br />
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=ravidulundu&style=flat-square&color=blue)
+</div>
