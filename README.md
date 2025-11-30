@@ -7,16 +7,17 @@
 
   Based in Brazil 🇧🇷 • He/Him
 
-  [![Website](https://img.shields.io/badge/Website-ravidulundu.me-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ravidulundu.me)
+  [![Website](https://img.shields.io/badge/Website-dulundu.tools-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dulundu.tools)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi_Dulundu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravidulundu)
   [![X](https://img.shields.io/badge/X-@ravidulundu-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravidulundu)
 
   <br />
+  <br />
 
-  <a href="https://github.com/ravidulundu">
-    <img src="https://github-readme-stats.vercel.app/api?username=ravidulundu&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Ravi's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-  </a>
+  [![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravidulundu&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/ravidulundu)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=radical&hide_border=true)](https://github.com/ravidulundu)
+
 </div>
 
 ---
@@ -78,7 +79,7 @@ I specialize in blending UX research, accessibility, and performance to launch p
 <div align="center">
   <p>I am open to conversations about frontend architectures & DX tooling.</p>
   
-  [Email via LinkedIn](https://linkedin.com/in/ravidulundu) • [Portfolio](https://ravidulundu.me)
+  [Email via LinkedIn](https://linkedin.com/in/ravidulundu) • [Portfolio](https://dulundu.tools)
   
   <br />
   
