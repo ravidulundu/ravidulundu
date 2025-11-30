@@ -7,16 +7,20 @@
 
   Based in Brazil 🇧🇷 • He/Him
 
-  [![Website](https://img.shields.io/badge/Website-dulundu.tools-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dulundu.tools)
+  [![Dev Tools](https://img.shields.io/badge/Dev_Tools-dulundu.tools-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dulundu.tools)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi_Dulundu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravidulundu)
   [![X](https://img.shields.io/badge/X-@ravidulundu-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravidulundu)
 
   <br />
   <br />
 
-  [![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravidulundu&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/ravidulundu)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ravidulundu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=radical&hide_border=true)](https://github.com/ravidulundu)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidulundu&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  </a>
 
 </div>
 
@@ -79,7 +83,7 @@ I specialize in blending UX research, accessibility, and performance to launch p
 <div align="center">
   <p>I am open to conversations about frontend architectures & DX tooling.</p>
   
-  [Email via LinkedIn](https://linkedin.com/in/ravidulundu) • [Portfolio](https://dulundu.tools)
+  [Email via LinkedIn](https://linkedin.com/in/ravidulundu) • [Developer Tools](https://dulundu.tools)
   
   <br />
   
