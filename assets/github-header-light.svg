@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ravi Dulundu — Software Developer</title>
+  <desc id="desc">A light editorial banner. Web, desktop and automation, from interface to infrastructure. An illustrated code editor lists these areas of focus.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#4F6770" stroke-opacity=".07"/></pattern>
+    <linearGradient id="glow" x1="920" y1="0" x2="1550" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#12735D" stop-opacity=".12"/><stop offset="1" stop-color="#12735D" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1600" height="500" rx="20" fill="#F3F5F2"/>
+  <rect width="1600" height="500" rx="20" fill="url(#grid)"/>
+  <rect x="900" width="700" height="500" rx="20" fill="url(#glow)"/>
+  <path d="M66 67H101" stroke="#12735D" stroke-width="4"/>
+  <text x="119" y="74" fill="#12735D" font-family="Consolas, 'Courier New', monospace" font-size="20" letter-spacing="3">SOFTWARE DEVELOPER</text>
+  <text x="61" y="204" fill="#172F37" font-family="Segoe UI, Arial, sans-serif" font-size="100" font-weight="650" letter-spacing="-4">Ravi Dulundu<tspan fill="#12735D">.</tspan></text>
+  <text x="67" y="270" fill="#172F37" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">Web. Desktop. Automation.</text>
+  <text x="68" y="321" fill="#4F6770" font-family="Segoe UI, Arial, sans-serif" font-size="27">From interface to infrastructure.</text>
+  <path d="M67 389H849" stroke="#CFDCD7"/>
+  <text x="68" y="431" fill="#4F6770" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="1.5">BRAZIL / @ravidulundu</text>
+  <g transform="translate(944 83)">
+    <rect width="588" height="334" rx="16" fill="#FFFFFF" stroke="#CFDCD7"/>
+    <path d="M0 53H588" stroke="#CFDCD7"/>
+    <circle cx="24" cy="27" r="5" fill="#A93D57"/><circle cx="43" cy="27" r="5" fill="#4F6770"/><circle cx="62" cy="27" r="5" fill="#12735D"/>
+    <text x="294" y="34" text-anchor="middle" fill="#4F6770" font-family="Consolas, 'Courier New', monospace" font-size="17">developer.ts</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="22">
+      <g fill="#4F6770" opacity=".6"><text x="26" y="102">1</text><text x="26" y="140">2</text><text x="26" y="178">3</text><text x="26" y="216">4</text><text x="26" y="254">5</text></g>
+      <text x="68" y="102" fill="#172F37"><tspan fill="#A93D57">const</tspan> focus = [</text>
+      <text x="92" y="140" fill="#12735D">"web &amp; desktop",</text>
+      <text x="92" y="178" fill="#12735D">"APIs &amp; integrations",</text>
+      <text x="92" y="216" fill="#12735D">"automation &amp; delivery"</text>
+      <text x="68" y="254" fill="#172F37">];</text>
+      <text x="68" y="300" fill="#4F6770" font-size="17">// Understand. Build. Verify.</text>
+    </g>
+  </g>
+</svg>
