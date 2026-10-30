@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/ravidulundu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Ravi on LinkedIn" /></a>
   <a href="mailto:ravidulundu@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ravi at ravidulundu@gmail.com" /></a>
   <a href="https://x.com/ravidulundu"><img src="https://img.shields.io/badge/Follow_on_X-24292F?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Find Ravi on X" /></a>
-  <a href="https://dulundu.dev"><img src="https://img.shields.io/badge/Website-176B5B?style=for-the-badge" alt="Visit Ravi's personal website, dulundu.dev" /></a>
+  <a href="https://dulunduztec.com.br"><img src="https://img.shields.io/badge/Website-176B5B?style=for-the-badge" alt="Visit DulunduzTec, dulunduztec.com.br" /></a>
 </p>
 
 ## Engineering toolkit
@@ -73,4 +73,4 @@ Based in **Brazil**. Through **[DulunduzTec](https://dulunduztec.com.br)**, I wo
   <a href="https://wa.me/5571981587532"><img src="https://img.shields.io/badge/Business_WhatsApp-176B5B?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Contact DulunduzTec on WhatsApp" /></a>
 </p>
 
-**Direct contact:** [ravidulundu@gmail.com](mailto:ravidulundu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ravidulundu/) · [X / @ravidulundu](https://x.com/ravidulundu) · [dulundu.dev](https://dulundu.dev)
+**Direct contact:** [ravidulundu@gmail.com](mailto:ravidulundu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ravidulundu/) · [X / @ravidulundu](https://x.com/ravidulundu) · [dulunduztec.com.br](https://dulunduztec.com.br)
